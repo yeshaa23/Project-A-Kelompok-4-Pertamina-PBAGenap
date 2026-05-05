@@ -18,37 +18,33 @@ Repositori ini berisi proyek **Natural Language Processing (NLP)** untuk mengana
 
 ### 📂 Struktur File
 
-Project-A-Kelompok-4-PBA-Genap-2026
-│
-├─ Data/
-│   └─ EDA/
-│       ├─ 1_distribusi_token.png
-│       ├─ 2_perbandingan_kata_stopwords.png
-│       ├─ 3_distribusi_sentimen.png
-│       ├─ 4_word_cloud.png
-│       ├─ 5_tps_1kata_persentimen.png
-│       ├─ 6_tag_persentimen.png
-│       ├─ 8_boxplot_panjang_berita.png
-│       ├─ 9_sentiment_pertahun.png
-│       └─ hasil_all_methods_sentiment.png
-│
-├─ Notebook/
-│   ├─ 1_Scraping_Artikel.ipynb
-│   ├─ 2a_Preprocessing.ipynb
-│   ├─ 2b_Preprocessing_Bert.ipynb
-│   ├─ 3_EDA.ipynb
-│   ├─ 4_POS_NER.ipynb
-│   ├─ 5_Sentiment_TextBlob.ipynb
-│   ├─ 6_TFIDF_Logreg.ipynb
-│   ├─ 7_Sentiment_IndoBERT.ipynb
-│   └─ 8_Compare_Evaluate.ipynb
-│
-├─ Dataset/
-│   ├─ pertamina_news_scraped.csv
-│   └─ pertamina_news_preprocessed.csv
-│
-└─ README.md
-
+Project-A-Kelompok-4-PBA-Genap-2026/
+  Data/
+    EDA/
+      1_distribusi_token.png
+      2_perbandingan_kata_stopwords.png
+      3_distribusi_sentimen.png
+      4_word_cloud.png
+      5_tps_1kata_persentimen.png
+      6_tag_persentimen.png
+      8_boxplot_panjang_berita.png
+      9_sentiment_pertahun.png
+      hasil_all_methods_sentiment.png
+  Notebook/
+    1_Scraping_Artikel.ipynb
+    2a_Preprocessing.ipynb
+    2b_Preprocessing_Bert.ipynb
+    3_EDA.ipynb
+    4_POS_NER.ipynb
+    5_Sentiment_TextBlob.ipynb
+    6_TFIDF_Logreg.ipynb
+    7_Sentiment_IndoBERT.ipynb
+    8_Compare_Evaluate.ipynb
+  Dataset/
+    pertamina_news_scraped.csv
+    pertamina_news_preprocessed.csv
+  README.md
+  
 ---
 
 ### 🔬 Tahapan Penelitian
