@@ -151,7 +151,7 @@ README.md                        # File README ini
 | 5026231033 | Ayu Alfia Putri |
 | 5026231066 | Burju Ferdinand |
 | 5026231116 | I Putu Febryan |
-| 5026231125 | Ayesha Hana |
+| 5026231125 | Ayesha Hana Aziya |
 | 5026231135 | Fachreza Aptadhi |
 
 ---
