@@ -10,8 +10,45 @@ Repositori ini berisi proyek **Natural Language Processing (NLP)** untuk mengana
 ---
 
 ### 🛠 Built With
-<p align="left"> <!-- Core --> <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python"> <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter"> <img src="https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab"> <br> <!-- Data & ML --> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas"> <img src="https://img.shields.io/badge/NumPy-Numerical-013243?logo=numpy"> <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn"> <img src="https://img.shields.io/badge/NLTK-NLP-9cf"> <br> <!-- NLP Tools --> <img src="https://img.shields.io/badge/Sastrawi-Stemming-green"> <img src="https://img.shields.io/badge/SpaCy-NLP-09A3D5?logo=spacy"> <img src="https://img.shields.io/badge/Stanza-NLP-red"> <br> <!-- Visualization --> <img src="https://img.shields.io/badge/Matplotlib-Visualization-blue"> <img src="https://img.shields.io/badge/Seaborn-Visualization-76B900"> <img src="https://img.shields.io/badge/WordCloud-Text%20Viz-lightgrey"> <img src="https://img.shields.io/badge/TextBlob-Sentiment-yellowgreen"> <br> <!-- Scraping --> <img src="https://img.shields.io/badge/Newspaper3k-Scraping-black"> <img src="https://img.shields.io/badge/BeautifulSoup-Parsing-8A2BE2"> <img src="https://img.shields.io/badge/Requests-HTTP-blueviolet"> <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?logo=selenium"> </p>
+<p align="left">
 
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter">
+  <img src="https://img.shields.io/badge/Google-Colab-yellow?style=for-the-badge&logo=googlecolab">
+
+  <br>
+
+  <!-- Data & ML -->
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn">
+  <img src="https://img.shields.io/badge/NLTK-NLP-9cf?style=for-the-badge">
+
+  <br>
+
+  <!-- NLP Tools -->
+  <img src="https://img.shields.io/badge/Sastrawi-Stemming-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SpaCy-NLP-09A3D5?style=for-the-badge&logo=spacy">
+  <img src="https://img.shields.io/badge/Stanza-NLP-red?style=for-the-badge">
+
+  <br>
+
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-76B900?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WordCloud-Text%20Viz-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TextBlob-Sentiment-yellowgreen?style=for-the-badge">
+
+  <br>
+
+  <!-- Scraping -->
+  <img src="https://img.shields.io/badge/Newspaper3k-Scraping-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BeautifulSoup-Parsing-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Requests-HTTP-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium">
+
+</p>
 ---
 
 ### 📂 Struktur File
