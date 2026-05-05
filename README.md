@@ -2,6 +2,15 @@
 
 ## Analisis Sentimen Artikel Berita Online tentang PT Pertamina Menggunakan TF-IDF, Logistic Regression, dan IndoBERT
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
+  <img src="https://img.shields.io/badge/NLP-Project-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+  <img src="https://img.shields.io/badge/Model-LogReg%20%7C%20IndoBERT-orange">
+</p>
+
+---
+
 ### 📄 Deskripsi Proyek
 Repositori ini berisi proyek **Natural Language Processing (NLP)** untuk menganalisis sentimen artikel berita daring yang membahas PT Pertamina. Penelitian ini bertujuan untuk mengetahui persepsi publik terhadap Pertamina melalui perbandingan tiga metode analisis sentimen: **Logistic Regression berbasis TF-IDF, IndoBERT, dan TextBlob**. TF-IDF digunakan sebagai representasi fitur untuk model klasik, sedangkan IndoBERT memanfaatkan pendekatan deep learning berbasis transformer. TextBlob digunakan sebagai baseline analisis polaritas dan subjektivitas.
 
