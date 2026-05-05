@@ -149,9 +149,9 @@ README.md                        # File README ini
 | NRP | Nama |
 |-----|------|
 | 5026231033 | Ayu Alfia Putri |
-| 5026231066 | Burju Ferdinand |
-| 5026231116 | I Putu Febryan |
-| 5026231125 | Ayesha Hana Aziya |
-| 5026231135 | Fachreza Aptadhi |
+| 5026231066 | Burju Ferdinand Harianja |
+| 5026231116 | I Putu Febryan Khrisyantara |
+| 5026231125 | Ayesha Hana Azkiya |
+| 5026231135 | Fachreza Aptadhi Kurniawa |
 
 ---
