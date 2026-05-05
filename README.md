@@ -17,45 +17,40 @@ Repositori ini berisi proyek **Natural Language Processing (NLP)** untuk mengana
 ---
 
 ### 📂 Struktur File
+```bash
+Data/                           # Semua dataset & hasil EDA
+├── EDA/                        # Visualisasi EDA
+│   ├── 1_distribusi_token.png
+│   ├── 2_perbandingan_kata_stopwords.png
+│   ├── 3_distribusi_sentimen.png
+│   ├── 4_word_cloud.png
+│   ├── 5_tp15_kata_persentimen.png
+│   ├── 6a_tag_persentimen.png
+│   ├── 6b_heatmap_sentimen_pertag.png
+│   ├── 7_berdasarkan_penerbit.png
+│   ├── 8_boxplot_panjang_berita_per_sentimen.png
+│   └── 9_sentiment_pertahun.png
+├── Kelompok 4 Link Artikel Pertamina - Scrap .csv
+├── hasil_scraping_berita.csv
+├── hasil_preprocessing_bert.csv
+├── hasil_textblob_sentiment.csv
+├── hasil_textblob_logreg_sentiment.csv
+├── hasil_all_methods_sentiment.csv
+└── hasil_final_perbandingan_sentimen.xlsx
 
-Project-A-Kelompok-4-PBA-Genap-2026/
-│
-├── Data/                           # Folder untuk menyimpan semua dataset dan hasil EDA
-│   ├── EDA/                        # Visualisasi dan grafik EDA
-│   │   ├── 1_distribusi_token.png
-│   │   ├── 2_perbandingan_kata_stopwords.png
-│   │   ├── 3_distribusi_sentimen.png
-│   │   ├── 4_word_cloud.png
-│   │   ├── 5_tp15_kata_persentimen.png
-│   │   ├── 6a_tag_persentimen.png
-│   │   ├── 6b_heatmap_sentimen_pertag.png
-│   │   ├── 7_berdasarkan_penerbit.png
-│   │   ├── 8_boxplot_panjang_berita_per_sentimen.png
-│   │   └── 9_sentiment_pertahun.png
-│   ├── Kelompok 4 Link Artikel Pertamina - Scrap .csv
-│   ├── hasil_scraping_berita.csv
-│   ├── hasil_preprocessing_bert.csv
-│   ├── hasil_textblob_sentiment.csv
-│   ├── hasil_textblob_logreg_sentiment.csv
-│   ├── hasil_all_methods_sentiment.csv
-│   └── hasil_final_perbandingan_sentimen.xlsx
-│
-├── Notebook/                       # Semua Jupyter Notebook
-│   ├── 1_Scraping_Artikel.ipynb
-│   ├── 2a_Preprocessing.ipynb
-│   ├── 2b_Preprocessing_Bert.ipynb
-│   ├── 3_EDA.ipynb
-│   ├── 4_POS_NER.ipynb
-│   ├── 5_Sentiment_TextBlob.ipynb
-│   ├── 6_TFIDF_Logreg.ipynb
-│   ├── 7_Sentiment_IndoBERT.ipynb
-│   └── 8_Compare_Evaluate_Export.ipynb
-│
-├── Dataset/                        # Dataset mentah dan yang sudah dipreproses
-│   ├── pertamina_news_scraped.csv
-│   └── pertamina_news_preprocessed.csv
-│
-└── README.md                        # File README ini
+Notebook/                       # Semua notebook
+├── 1_Scraping_Artikel.ipynb
+├── 2a_Preprocessing.ipynb
+├── 2b_Preprocessing_Bert.ipynb
+├── 3_EDA.ipynb
+├── 4_POS_NER.ipynb
+├── 5_Sentiment_TextBlob.ipynb
+├── 6_TFIDF_Logreg.ipynb
+├── 7_Sentiment_IndoBERT.ipynb
+└── 8_Compare_Evaluate_Export.ipynb
+
+README.md                        # File README ini
+```    
   
 ---
 
